@@ -69,19 +69,6 @@ The program integrates with the [Pushover API](https://pushover.net/) to send mo
 - **Threshold Values:** Adjust parameters such as `minArea`, `minAngle`, and `maxAngle` to fine-tune the fall detection logic.
 - **Notification Message:** Modify the `message` variable to customize the alert text.
 
-## Output
-
-- The modified video with detection overlays is saved as `output.mp4`.
-- Notifications are sent when a fall is detected.
-
-## Example Output
-
-![Sample Fall Detection Frame](image.jpg)
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 This project was built using:
